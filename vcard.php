@@ -5,6 +5,7 @@
 * Last Modified..: 2005/07/14 13:30:00
 * Description....: A class to generate vCards for contact data.
  * dasdasdasdsadasdadasdasdasdasdas
+ 0000000000000000000000000000000000000
 */
 class vcard {
   var $log;
