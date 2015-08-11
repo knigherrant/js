@@ -4,8 +4,8 @@
 * Author.........: Troy Wolf [troy@troywolf.com]
 * Last Modified..: 2005/07/14 13:30:00
 * Description....: A class to generate vCards for contact data.
- * dasdasdasdsadasdadasdasdasdasdasd· ·da dadas
- 0000000000000000000000000000000000000
+ * dasdasdasdsadasdadasdasdasdasdasd√° √°da dadas
+ 0000000000000000xxxxxxxxxxxxx000000000000000000000
 */
 class vcard {
   var $log;
